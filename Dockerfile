@@ -3,4 +3,4 @@ MAINTAINER Andrey Ustyuzhanin
 
 RUN apt-get update && \
 	apt-get install -y graphviz && \
-	pip install pydot
+	pip install pydot astropy
